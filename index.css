@@ -13,11 +13,15 @@ div{
     display:flex;
     flex-direction:row;
 }
+li {
+    list-style-type:none;
+}
 .sort_one{
     background-color: rgba(250, 250, 250, 0.4);
     margin:20px;
-    padding=10px;
+    padding:10px;
     justify-content:space-between;
+    
 }
 p.tit{
     margin-left:20px;
@@ -37,6 +41,7 @@ p.tit{
   margin-right: 20px;
   display:flex;
   flex-direction:column;
+  position: fixed;
 }
 .personal-top{
     padding: 20px 0 20px 20px;
@@ -89,12 +94,20 @@ p.tit{
 
   display:flex;
   flex-direction:column;
-  margin-left:30px;
+  margin-left:550px;
+}
+div.ric {
+    width: 550px;
+    display: flex;
+    flex-direction: column;
+    margin: 10px auto;
+    justify-content: center;
 }
 .f{
     background-color:rgba(250, 250, 250, 0.4);
     padding:10px;
-    border-radius:20px
+    border-radius:20px;
+    margin: 20px auto;
 }
 .user-pto{
     width: 50px;
