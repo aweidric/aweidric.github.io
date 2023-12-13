@@ -12,9 +12,9 @@ function list_create(){
          昨夜西风凋碧树。独上高楼，望尽天涯路。欲寄彩笺兼尺素。山长水阔知何处。'
     ];
     var srcs = [
-        'http://m.qpic.cn/psc?/V54ZVLzA2eSbEt1IFTBl2BjjQJ0MQaZi/ruAMsa53pVQWN7FLK88i5s3fY6QsSeejnYESpQCBAEhTvGRZh0QEDTSKOSvKu2YRmTdAMfQ1SsHMQVNchGEt7IXELDaEDHo6sqHsPVqloHc!/mnull&bo=JgP7AQAAAAABB*8!&rf=photolist&t=5',
-        'http://m.qpic.cn/psc?/V54ZVLzA2eSbEt1IFTBl2BjjQJ0MQaZi/ruAMsa53pVQWN7FLK88i5s3fY6QsSeejnYESpQCBAEi8Q8yig17.bnCdhjf9ks7qqNymey7xiM3hduziC7Kmi*WTf7amrf2yxK.xbGiajK8!/mnull&bo=WAJ3AQAAAAABBww!&rf=photolist&t=5',
-        'http://m.qpic.cn/psc?/V54ZVLzA2eSbEt1IFTBl2BjjQJ0MQaZi/ruAMsa53pVQWN7FLK88i5s3fY6QsSeejnYESpQCBAEjoSBE.A88S387WPY*.UIBos2hu*hQOWnjK59Hg6zCkn.VJjSeyoRk7bSPFsK3nINo!/mnull&bo=vAKKAQAAAAABBxU!&rf=photolist&t=5'
+        ./h1.jpg,
+        ./h1.jpg,
+        ./h1.jpg
 
     ];
     var str = '';
