@@ -12,9 +12,9 @@ function list_create(){
          昨夜西风凋碧树。独上高楼，望尽天涯路。欲寄彩笺兼尺素。山长水阔知何处。'
     ];
     var srcs = [
-        ./h1.jpg,
-        ./h1.jpg,
-        ./h1.jpg
+        url(h1.jpg),
+        url(h1.jpg),
+        url(h1.jpg)
 
     ];
     var str = '';
